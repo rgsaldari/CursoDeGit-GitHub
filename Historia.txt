@@ -4,4 +4,4 @@ Estoy empezando el curso de Git y GitHub
 
 Me gusta mucho la programación
 
-Estoy aprendiendo cosas nuevas
+Estoy aprendiendo cosas nuevas y nuevas tecnicas
