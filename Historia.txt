@@ -1,5 +1,5 @@
 Mi nombre es Remo
 
-Estoy empezando el curso de Git
+Estoy empezando el curso de Git y GitHub
 
 Me gusta mucho la programación
