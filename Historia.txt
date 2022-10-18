@@ -4,4 +4,6 @@ Estoy empezando el curso de Git
 
 Estoy muy activo con esto
 
+Master 1
+
 Este cambio lo voy a borrar
